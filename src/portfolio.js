@@ -295,20 +295,20 @@ const certifications = {
       subtitle: "University of Denver",
       logo_path: "mongo.png",
       certificate_link:
-        "https://bootcamp.du.edu/data/curriculum/",
+        "https://drive.google.com/file/d/1SV5CmVIW9uKE_ioX67OexD6BVT_zCigp/view?usp=sharing",
       alt_name: "University of Denver - Data Science Bootcamp",
       // color_code: "#2AAFED",
       color_code: "#47A048",
     },
-    // {
-    //   title: "Hackathon",
-    //   subtitle: "Hack The Mountains",
-    //   logo_path: "hackathon1.svg",
-    //   certificate_link:
-    //     "https://drive.google.com/file/d/1Y-HT1flWDfeyfnfqVr3ubNgGIcnuUEYt/view?usp=sharing",
-    //   alt_name: "hackathon",
-    //   color_code: "#E2405F",
-    // },
+    {
+      title: "ESRI Developer Conference",
+      subtitle: "ESRI Developer Conference",
+      logo_path: "hackathon1.svg",
+      // certificate_link:
+      //   "https://drive.google.com/file/d/1Y-HT1flWDfeyfnfqVr3ubNgGIcnuUEYt/view?usp=sharing",
+      alt_name: "ESRI Dev",
+      color_code: "#E2405F",
+    },
 
     // color_code: "#8C151599",
     // color_code: "#7A7A7A",
