@@ -1,1 +1,2 @@
-# lawnshogan.github.io
+# React_Portfolio
+Shawn Logan's React.js portfolio
