@@ -8,6 +8,7 @@ import { CursorProvider } from "react-cursor-custom";
 import { settings } from "./portfolio";
 import ReactGA from "react-ga";
 
+
 function App() {
   useEffect(() => {
     if (settings.googleTrackingID) {
@@ -42,5 +43,6 @@ function App() {
     </ThemeProvider>
   );
 }
+
 
 export default App;
