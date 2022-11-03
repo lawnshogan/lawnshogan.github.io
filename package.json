@@ -1,14 +1,14 @@
 {
   "private": true,
   "name": "personalPortfolio",
-  "homepage": "http://lawnshogan.github.io/PortfolioV2",
+  "homepage": "http://lawnshogan.github.io",
   "version": "1.0.0",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -b gh-pages -d build",
     "eject": "react-scripts eject",
-    "start": "react-scripts start",
+    "start": "react-scripts --openssl-legacy-provider start",
     "test": "react-scripts test"
   },
   "dependencies": {
